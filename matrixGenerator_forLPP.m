@@ -1,4 +1,4 @@
-nStops = 60;
+nStops = 12;
 stopsLon = zeros(nStops,1); 
 stopsLat = zeros(nStops,1); 
 n = 1;
